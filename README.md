@@ -1,1 +1,1 @@
-# Http://ChoroplethMaps.github.io
+# http://ChoroplethMaps.github.io
