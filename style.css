@@ -1,0 +1,26 @@
+h1, h3 {
+    text-align: center;
+    font-family: 'calibri';
+    color: Black;
+}
+
+h1 {
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-style: italic;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#topview {
+    background-color: red;
+    padding: 2vw 2vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
